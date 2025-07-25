@@ -47,17 +47,8 @@ I love building backend systems and solving real-world problems with data. I'm a
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" height="40" alt="Seaborn" />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" height="40" alt="XGBoost" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lightgbm.svg" height="40" alt="LightGBM" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/statsmodels.svg" height="40" alt="Statsmodels" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" alt="SciPy" />
 </p>
 
 
