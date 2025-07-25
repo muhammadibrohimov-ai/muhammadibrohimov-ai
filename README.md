@@ -68,13 +68,6 @@
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=muhammadibrohimov-ai&theme=dracula" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/farruhpy/muhammadibrohimov-ai/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/muhammadibrohimov-ai/count.svg?" />
