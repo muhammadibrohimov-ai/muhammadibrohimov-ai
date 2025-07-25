@@ -28,18 +28,19 @@ I love building backend systems and solving real-world problems with data. I'm a
 
 #### ⚙️ Backend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,aiogram" height="40"/>
 </p>
 
-#### 🤖 ML / Data Science
+#### 🤖 ML & Data Science Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,pytorch" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,pytorch,opencv,matplotlib,seaborn,plotly,xgboost,lightgbm,statsmodels,scipy" height="40" />
 </p>
 
 #### 🗄 Databases & Dev Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux,vscode,github" height="40"/>
 </p>
+
 
 ---
 
