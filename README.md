@@ -34,6 +34,22 @@ I love building backend systems and solving real-world problems with data. I'm a
 #### 🤖 ML & Data Science Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,pytorch,opencv,matplotlib,seaborn,plotly,xgboost,lightgbm,statsmodels,scipy" height="40" />
+  <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/ansh9410/Icons-datascience/master/seaborn.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/ansh9410/Icons-datascience/master/xgboost.svg" height="40" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/ansh9410/Icons-datascience/master/lightgbm.svg" height="40" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/ansh9410/Icons-datascience/master/statsmodels.svg" height="40" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" />
+</p>
+
 </p>
 
 #### 🗄 Databases & Dev Tools
