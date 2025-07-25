@@ -33,24 +33,33 @@ I love building backend systems and solving real-world problems with data. I'm a
 
 #### 🤖 ML & Data Science Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn,tensorflow,pytorch,opencv,matplotlib,seaborn,plotly,xgboost,lightgbm,statsmodels,scipy" height="40" />
-  <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/ansh9410/Icons-datascience/master/seaborn.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/ansh9410/Icons-datascience/master/xgboost.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/ansh9410/Icons-datascience/master/lightgbm.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/ansh9410/Icons-datascience/master/statsmodels.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" height="40" alt="Seaborn" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xgboost.svg" height="40" alt="XGBoost" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lightgbm.svg" height="40" alt="LightGBM" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/statsmodels.svg" height="40" alt="Statsmodels" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="40" alt="SciPy" />
 </p>
 
-</p>
 
 #### 🗄 Databases & Dev Tools
 <p align="left">
