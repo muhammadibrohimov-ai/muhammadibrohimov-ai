@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="image.jpg" alt="Banner" width="100%" />
+  <img src="image.jpg" alt="Banner" width="200px" />
 </p>
 
 <p align="center"><b>Muhammadjon Ibrohimov</b></p>
