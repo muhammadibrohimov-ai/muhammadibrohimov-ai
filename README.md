@@ -1,7 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="image.jpg" alt="Banner" width="200px" />
-</p>
 
 <p align="center"><b>Muhammadjon Ibrohimov</b></p>
 <p align="center">⚙️ Python Backend Developer | 🤖 Machine Learning & Data Science Enthusiast</p>
