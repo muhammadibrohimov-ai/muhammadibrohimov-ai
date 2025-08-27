@@ -55,25 +55,23 @@ Always learning, building, and contributing to open source.
 </p>
 
 ---
-
-### 🧑‍💻 Skills & Experience (Animated Bars)
+### 🧑‍💻 Skills & Experience
 
 #### Python
-<img src="https://progress-bar.dev/95/?title=Python&color=blue" />
+![Python](https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white)
 
 #### Django
-<img src="https://progress-bar.dev/90/?title=Django&color=green" />
+![Django](https://img.shields.io/badge/Django-90%25-green?style=for-the-badge&logo=django&logoColor=white)
 
 #### FastAPI
-<img src="https://progress-bar.dev/85/?title=FastAPI&color=orange" />
+![FastAPI](https://img.shields.io/badge/FastAPI-85%25-orange?style=for-the-badge&logo=fastapi&logoColor=white)
 
 #### Flask
-<img src="https://progress-bar.dev/80/?title=Flask&color=red" />
+![Flask](https://img.shields.io/badge/Flask-80%25-red?style=for-the-badge&logo=flask&logoColor=white)
 
-#### ML / AI
-<img src="https://progress-bar.dev/85/?title=ML%2FAI&color=purple" />
+#### Machine Learning / AI
+![ML/AI](https://img.shields.io/badge/ML%2FAI-85%25-purple?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
 
 ### 🌍 Socials
 
