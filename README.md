@@ -1,14 +1,10 @@
-<!-- Header / Hero -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<p align="center"><b>Muhammadjon Ibrohimov</b></p>
+<p align="center">⚙️ Python Backend Developer | 🤖 Machine Learning & Data Science Enthusiast</p>
 
-<p align="center">
-  <b>Muhammadjon Ibrohimov</b>
-</p>
-<p align="center">
-  ⚙️ Python Backend Developer | 🤖 Machine Learning & Data Science Enthusiast
-</p>
+---
 
-<!-- Typing Animation -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Muhammadjon+Ibrohimov;Python+Backend+Developer;ML+%26+AI+Enthusiast;Welcome+to+my+GitHub+profile!" />
 </p>
@@ -19,13 +15,12 @@
 
 I'm a Python Backend Developer with solid experience in:
 
-- 🧩 Django, FastAPI, Flask, Aiogram  
-- 🤖 Data Science & Machine Learning (scikit-learn, TensorFlow, PyTorch)  
-- ⚙️ RESTful APIs, CRUD systems, bots, automation tools  
-- 🗄 PostgreSQL, MySQL, SQLite, Linux  
+- 🧩 Django, FastAPI, Flask, Aiogram
+- 🤖 Data Science & Machine Learning (scikit-learn, TensorFlow, PyTorch)
+- ⚙️ RESTful APIs, CRUD systems, bots, automation tools
+- 🗄 PostgreSQL, MySQL, SQLite, Linux
 
-🚀 Currently focused on **AI-powered Telegram bots and backend systems**.  
-Always learning, building, and contributing to open source.
+I love building backend systems and solving real-world problems with data. I'm always learning and growing through projects and collaboration.
 
 ---
 
@@ -47,23 +42,21 @@ Always learning, building, and contributing to open source.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" />
+  <img width="10" />
 </p>
+
 
 #### 🗄 Databases & Dev Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux,vscode,github" height="40"/>
 </p>
 
+
 ---
-### 🧑‍💻 Skills & Experience
-
-![Python](https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-90%25-green?style=for-the-badge&logo=django&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-85%25-orange?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-80%25-red?style=for-the-badge&logo=flask&logoColor=white) 
-![ML/AI](https://img.shields.io/badge/ML%2FAI-85%25-purple?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-
 
 ### 🌍 Socials
 
@@ -78,26 +71,6 @@ Always learning, building, and contributing to open source.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/muhammadibrohimov-ai/Machine_Learning_Intro_California_housing" target="_blank">
-    <img src="https://raw.githubusercontent.com/ibrokhimov/Machine_Learning_Intro_California_housing/main/demo.gif" width="250" alt="ML Project Demo" />
-  </a>
-  <a href="https://github.com/muhammadibrohimov-ai/telegram_bots" target="_blank">
-    <img src="https://raw.githubusercontent.com/ibrokhimov/telegram_bots/main/demo.gif" width="250" alt="Telegram Bots Demo" />
-  </a>
-</p>
-
-<p align="center">Click on a project to see details</p>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [ML California Housing](https://github.com/muhammadibrohimov-ai/Machine_Learning_Intro_California_housing) | Predicting housing prices | Python, Pandas, Scikit-learn |
-| [Telegram Bots](https://github.com/muhammadibrohimov-ai/telegram_bots) | AI-powered Telegram bots | Python, Aiogram, FastAPI |
 
 ---
 
@@ -118,15 +91,6 @@ Always learning, building, and contributing to open source.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadibrohimov-ai&theme=react-dark&area=true&hide_border=true" height="300" />
-</p>
-
----
-
-### 💬 Quote of the Day
-> “Strive for progress, not perfection.” – Anonymous
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadibrohimov-ai&color=brightgreen" alt="Profile Views"/>
 </p>
 
 <!-- Footer -->
