@@ -1,75 +1,38 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<p align="center"><b>Muhammadjon Ibrohimov</b></p>
-<p align="center">⚙️ Python Backend Developer | 🤖 Machine Learning & Data Science Enthusiast</p>
-
----
-
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Muhammadjon+Ibrohimov;Python+Backend+Developer;ML+%26+AI+Enthusiast;Welcome+to+my+GitHub+profile!" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
 </p>
 
----
-
-### 💻 About Me
-
-I'm a Python Backend Developer with solid experience in:
-
-- 🧩 Django, FastAPI, Flask, Aiogram
-- 🤖 Data Science & Machine Learning (scikit-learn, TensorFlow, PyTorch)
-- ⚙️ RESTful APIs, CRUD systems, bots, automation tools
-- 🗄 PostgreSQL, MySQL, SQLite, Linux
-
-I love building backend systems and solving real-world problems with data. I'm always learning and growing through projects and collaboration.
-
----
-
-### 🧰 Tech Stack
-
-#### ⚙️ Backend Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,aiogram" height="40"/>
-</p>
-
-#### 🤖 ML & Data Science Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly" />
-  <img width="10" />
-</p>
-
-
-#### 🗄 Databases & Dev Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux,vscode,github" height="40"/>
-</p>
-
-
----
-
-### 🌍 Socials
+<h1 align="center">Hi 👋, I'm Muhammadjon Ibrohimov</h1>
+<h3 align="center">Python Developer | Machine Learning Engineer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <a href="https://t.me/muhammadibrohimovceo" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:ibrokhimovmiu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_muhammadibrohimov_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  🔭 I’m currently working on <b>ML & AI projects</b> | 🌱 Learning advanced Deep Learning | 💬 Ask me about Python & Data Science
+</p>
+
+---
+
+### 🛠️ Skills & Tools
+
+**Programming:**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Machine Learning & Data Science:**  
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+**Web & Tools:**  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -77,21 +40,49 @@ I love building backend systems and solving real-world problems with data. I'm a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimov-ai&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrohimov-ai&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrokhimov&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrokhimov&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadibrohimov-ai&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrokhimov&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-### ⚡ Contribution Graph
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Demo |
+|---------|-------------|------------|------|
+| [ML California Housing](https://github.com/ibrokhimov/Machine_Learning_Intro_California_housing) | Predicting housing prices | Python, Pandas, Scikit-learn | ![GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) |
+| [Telegram Bots](https://github.com/ibrokhimov/telegram_bots) | Multi-purpose Telegram bots | Python, Aiogram, APIs | ![GIF](https://media.giphy.com/media/l0HlQ7LRal1G3KczG/giphy.gif) |
+| [Portfolio Website](https://miuportfolio.com) | Personal portfolio & showcase | React, Tailwind CSS | ![GIF](https://media.giphy.com/media/xT0GqF0mW3Kqij2mVy/giphy.gif) |
+
+---
+
+### 🏆 Achievements & Certifications
+
+- Kaggle Competitions: 🥉 Bronze Medalist  
+- Coursera ML Specialization: ✅ Completed  
+- Udemy Deep Learning Bootcamp: ✅ Completed  
+- Hackathons: 2x finalist 🎯
+
+---
+
+### 💬 Contact Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadibrohimov-ai&theme=react-dark&area=true&hide_border=true" height="300" />
+  <a href="https://www.linkedin.com/in/ibrokhimov-miu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ibrokhimov.miu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://miuportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
 </p>
 
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrokhimov&color=brightgreen" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>“Strive for progress, not perfection.”</i>
+</p>
