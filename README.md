@@ -101,19 +101,6 @@ Always learning, building, and contributing to open source.
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadibrohimov-ai&theme=radical&no-bg=true&margin-w=10"/>
-</p>
-
-- Kaggle Competitions: 🥉 Bronze Medalist  
-- Coursera ML Specialization: ✅ Completed  
-- Udemy Deep Learning Bootcamp: ✅ Completed  
-- Hackathons: 2x Finalist 🎯
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
