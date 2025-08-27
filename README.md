@@ -57,20 +57,12 @@ Always learning, building, and contributing to open source.
 ---
 ### 🧑‍💻 Skills & Experience
 
-#### Python
-![Python](https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white)
-
-#### Django
-![Django](https://img.shields.io/badge/Django-90%25-green?style=for-the-badge&logo=django&logoColor=white)
-
-#### FastAPI
-![FastAPI](https://img.shields.io/badge/FastAPI-85%25-orange?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### Flask
-![Flask](https://img.shields.io/badge/Flask-80%25-red?style=for-the-badge&logo=flask&logoColor=white)
-
-#### Machine Learning / AI
+![Python](https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-90%25-green?style=for-the-badge&logo=django&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-85%25-orange?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-80%25-red?style=for-the-badge&logo=flask&logoColor=white) 
 ![ML/AI](https://img.shields.io/badge/ML%2FAI-85%25-purple?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 
 ### 🌍 Socials
