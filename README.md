@@ -90,7 +90,8 @@ I love building backend systems and solving real-world problems with data. I'm a
 <div align="center">
   
   <!-- Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimov-ai&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimov-ai&show_icons=true&theme=dark" />
+
 
   
   <!-- Languages -->
