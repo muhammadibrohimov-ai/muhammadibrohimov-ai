@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- soft glow filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- gradient used for line/area -->
+    <linearGradient id="g1" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#ff00ff">
+        <animate attributeName="stop-color" dur="6s" values="#ff00ff;#00ffee;#39ff14;#ff00ff" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00ffee">
+        <animate attributeName="stop-color" dur="6s" values="#00ffee;#39ff14;#ff00ff;#00ffee" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#39ff14">
+        <animate attributeName="stop-color" dur="6s" values="#39ff14;#ff00ff;#00ffee;#39ff14" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- animated glow stroke style -->
+    <style type="text/css"><![CDATA[
+      .bg { fill:#00111c; }
+      .grid { stroke: rgba(255,255,255,0.03); stroke-width:1; }
+      .line { fill: none; stroke: url(#g1); stroke-width:4; filter:url(#glow); stroke-linecap:round; stroke-linejoin:round; }
+      .points { filter:url(#glow); }
+      .point { r:6; stroke:#ffffff; stroke-width:1.2; fill-opacity:1; }
+      .label { fill:#9ad5ff; font-family: Inter, Arial, sans-serif; font-size:12px; opacity:0.9; }
+
+      /* subtle up/down animation for points */
+      .pulse {
+        animation: pulse 3s ease-in-out infinite;
+      }
+      @keyframes pulse {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-6px); }
+        100% { transform: translateY(0px); }
+      }
+    ]]></style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" x="0" y="0" width="800" height="200"/>
+
+  <!-- decorative grid lines -->
+  <g opacity="0.14">
+    <line class="grid" x1="40" y1="30" x2="760" y2="30"/>
+    <line class="grid" x1="40" y1="60" x2="760" y2="60"/>
+    <line class="grid" x1="40" y1="90" x2="760" y2="90"/>
+    <line class="grid" x1="40" y1="120" x2="760" y2="120"/>
+    <line class="grid" x1="40" y1="150" x2="760" y2="150"/>
+  </g>
+
+  <!-- sample activity path (you can replace path d with your graph's path or overlay image) -->
+  <!-- Here we draw a smooth curve as demo -->
+  <path class="line" d="M40,150
+                        C120,120 160,60 220,80
+                        C280,100 320,40 380,70
+                        C440,100 480,90 540,60
+                        C600,30 660,70 740,50" />
+
+  <!-- filled area under the curve -->
+  <path fill="url(#g1)" opacity="0.08" d="M40,150
+                        C120,120 160,60 220,80
+                        C280,100 320,40 380,70
+                        C440,100 480,90 540,60
+                        C600,30 660,70 740,50
+                        L740,200 L40,200 Z" />
+
+  <!-- glowing points (animated subtle "pulse") -->
+  <g class="points" transform="translate(0,0)">
+    <!-- example points placement along curve -->
+    <g transform="translate(120,120)" class="pulse">
+      <circle class="point" cx="0" cy="0" r="6" fill="#ff66cc" />
+    </g>
+    <g transform="translate(220,80)" class="pulse" style="animation-delay:0.3s">
+      <circle class="point" cx="0" cy="0" r="6" fill="#00ffee" />
+    </g>
+    <g transform="translate(320,40)" class="pulse" style="animation-delay:0.6s">
+      <circle class="point" cx="0" cy="0" r="6" fill="#39ff14" />
+    </g>
+    <g transform="translate(440,100)" class="pulse" style="animation-delay:0.9s">
+      <circle class="point" cx="0" cy="0" r="6" fill="#ff00ff" />
+    </g>
+    <g transform="translate(600,30)" class="pulse" style="animation-delay:1.2s">
+      <circle class="point" cx="0" cy="0" r="6" fill="#00fff7" />
+    </g>
+    <g transform="translate(740,50)" class="pulse" style="animation-delay:1.5s">
+      <circle class="point" cx="0" cy="0" r="6" fill="#ffcc00" />
+    </g>
+  </g>
+
+  <!-- small title -->
+  <text x="40" y="22" class="label">activity • neon mode</text>
+
+</svg>
