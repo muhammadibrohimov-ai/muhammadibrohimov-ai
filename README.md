@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="center"><b>Muhammadjon Ibrohimov</b></p>
 <p align="center">⚙️ Python Backend Developer | 🤖 Machine Learning & Data Science Enthusiast</p>
-
+<a href="https://wakatime.com/@84830cd2-d22d-48e3-b67f-3b8cf08b7d31"><img src="https://wakatime.com/badge/user/84830cd2-d22d-48e3-b67f-3b8cf08b7d31.svg" alt="Total time coded since Sep 25 2023" />
+<a href=<a href="https://wakatime.com/@84830cd2-d22d-48e3-b67f-3b8cf08b7d31"><img src="https://wakatime.com/badge/user/84830cd2-d22d-48e3-b67f-3b8cf08b7d31.svg" alt="Total time coded since Sep 25 2023" />
 ---
 
 <!-- TYPING ANIMATION -->
