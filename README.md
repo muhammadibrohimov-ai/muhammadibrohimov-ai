@@ -1,121 +1,82 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<p align="center"><b>Muhammadjon Ibrohimov</b></p>
-<p align="center">⚙️ Python Backend Developer | 🤖 Machine Learning & Data Science Enthusiast</p>
+<!-- README.md for Muhammadjon Ibrohimov -->
+<div align="center">
 
-<a href="https://wakatime.com/@4efda21c-a737-4ec0-ae71-a70077bc9189"><img src="https://wakatime.com/badge/user/4efda21c-a737-4ec0-ae71-a70077bc9189.svg" alt="Total time coded since Jul 10 2025" /></a>
----
+<!-- 🔥 Futuristic Banner -->
+<img src="https://i.ibb.co/R0M9nGD/futuristic-banner.gif" width="100%" alt="Muhammadjon Ibrohimov Banner"/>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Muhammadjon+Ibrohimov;Python+Backend+Developer;ML+%26+AI+Enthusiast;Welcome+to+my+GitHub+profile!" />
-</p>
+<!-- ⚡ Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=850&lines=⚡+Python+Backend+Developer+⚡;🤖+Machine+Learning+%26+AI+Explorer+🤖;📊+Data+Science+Problem+Solver+📊;🚀+Always+Coding,+Always+Learning+🚀" />
 
----
+<!-- 👨 Avatar -->
+<img src="https://i.ibb.co/FVtdpRb/avatar-tech.gif" width="200px" alt="Muhammadjon Ibrohimov Avatar"/>
 
-### 💻 About Me
+<!-- 🚀 Coder Animation -->
+<img src="https://i.ibb.co/TbgdR2j/coding-futuristic.gif" width="400px" alt="Coding Animation"/>
 
-I'm a Python Backend Developer with solid experience in:
-
-- 🧩 Django, FastAPI, Flask, Aiogram
-- 🤖 Data Science & Machine Learning (scikit-learn, TensorFlow, PyTorch)
-- ⚙️ RESTful APIs, CRUD systems, bots, automation tools
-- 🗄 PostgreSQL, MySQL, SQLite, Linux
-
-I love building backend systems and solving real-world problems with data. I'm always learning and growing through projects and collaboration.
+</div>
 
 ---
 
-<div align="center">
-  
-  ### 🚀 Programming Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ### ⚡ Frameworks & Libraries
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-  ![Aiogram](https://img.shields.io/badge/Aiogram-2E7D32?style=for-the-badge&logo=telegram&logoColor=white)
+## 👨‍💻 About Me  
 
-  
-  ### 📊 Data Science & ML
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logo=seaborn&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-  
-  ### 🗄️ Databases & Cloud
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-  ### 🛠️ Tools & DevOps
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Muhammadjon Ibrohimov"
+        self.role = "Python Backend Developer"
+        self.focus = ["Machine Learning", "Data Science", "AI Systems"]
+        self.location = "Uzbekistan 🇺🇿"
+        self.motto = "Code. Learn. Innovate. Repeat."
+
+    def skills(self):
+        return {
+            "backend": ["Django", "FastAPI", "Flask", "Aiogram"],
+            "ml_ds": ["NumPy", "Pandas", "Scikit-Learn", "TensorFlow", "PyTorch"],
+            "databases": ["PostgreSQL", "MySQL", "SQLite"],
+            "tools": ["Docker", "Linux", "Git", "VS Code"]
+        }
+
+    def say_hi(self):
+        print("Assalamu alaykum 👋, let’s build something powerful with Python!")
+
+```
+
+## ⚡ Tech Stack  
+
+<div align="center">
+
+### 💻 Languages  
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+
+### 🤖 Data Science & Machine Learning  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />  
+`NumPy` · `Pandas` · `scikit-learn` · `Matplotlib` · `Seaborn` · `XGBoost` · `fastai`
+
+### 🛠️ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi&theme=dark" />
+
+### 🧠 Deep Learning  
+`TensorFlow` · `PyTorch` · `Keras` · `fastai`
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+
+### ⚙️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,github&theme=dark" />  
+`Postman` · `GitHub Actions`
 
 </div>
 
+📊 GitHub Stats
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimov-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=ffffff&icon_color=4facfe&border_radius=15"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrohimov-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=ffffff&border_radius=15"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimov-ai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F2FE&ring=764ba2&fire=FF6F00&currStreakLabel=00F2FE&sideLabels=ffffff&currStreakNum=00F2FE&border_radius=15" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadibrohimov-ai&theme=react-dark&bg_color=0D1117&color=00F2FE&line=4facfe&point=764ba2&area=true&hide_border=true" width="100%"/> </div>
+🎯 2025 Mission Goals
+mission_2025 = {
+    "Q1": ["Master FastAPI ⚡", "Deploy ML Models 🚀", "Dockerize Everything 🐳"],
+    "Q2": ["AWS Cloud ☁️", "Deep Learning 🧠", "Data Pipelines 🔗"],
+    "Q3": ["System Design 🏗️", "MLOps 🔄", "Open Source Contributions 🌍"],
+}
+print("Every dataset is a new story to tell 📊, every bug is a new boss to defeat ⚔️")
 
-
----
-
-### 🌍 Socials
-
-<p align="center">
-  <a href="https://t.me/muhammadibrohimovceo" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:ibrokhimovmiu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_muhammadibrohimov_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Beautiful Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <!-- Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadibrohimov-ai&show_icons=true&theme=dark" />
-
-
-  
-  <!-- Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadibrohimov-ai&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadibrohimov-ai&theme=radical&hide_border=true&background=0d1117&stroke=667eea&ring=f093fb&fire=764ba2&currStreakLabel=667eea&sideLabels=ffffff&currStreakNum=f093fb&dates=ffffff&sideNums=667eea" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadibrohimov-ai&theme=radical&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&hide_border=true" width="100%"/>
-</div>
-
-<!-- Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-
-<!-- Footer -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+🌍 Connect With Me
+<p align="center"> <a href="https://t.me/muhammadibrohimovceo" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="mailto:ibrokhimovmiu@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/_muhammadibrohimov_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=4facfe,00f2fe,667eea,764ba2&height=120&section=footer&animation=fadeIn" /> </div> ```
