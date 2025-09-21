@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/R0M9nGD/futuristic-banner.gif" width="100%" alt="Muhammadjon Ibrohimov Banner"/>
 
 <!-- ⚡ Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=850&lines=⚡+Python+Backend+Developer+⚡;🤖+Machine+Learning+%26+AI+Explorer+🤖;📊+Data+Science+Problem+Solver+📊;🚀+Always+Coding,+Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=850&lines=⚡+Assalamu+Alaykum+welcome+to+my+profile⚡;⚡+Python+Backend+Developer+⚡;🤖+Machine+Learning+%26+AI+Explorer+🤖;📊+Data+Science+Problem+Solver+📊;🚀+Always+Coding,+Always+Learning+🚀" />
 
 <!-- 👨 Avatar -->
 <img src="https://i.ibb.co/FVtdpRb/avatar-tech.gif" width="200px" alt="Muhammadjon Ibrohimov Avatar"/>
