@@ -2,6 +2,7 @@
 <div align="center">
 
 <!-- 🔥 Futuristic Banner -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <img src="https://i.ibb.co/R0M9nGD/futuristic-banner.gif" width="100%" alt="Muhammadjon Ibrohimov Banner"/>
 
 <!-- ⚡ Typing SVG -->
@@ -111,4 +112,5 @@ class Developer:
 
 🌍 Connect With Me
 <p align="center"> <a href="https://t.me/muhammadibrohimovceo" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="mailto:ibrokhimovmiu@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/_muhammadibrohimov_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=4facfe,00f2fe,667eea,764ba2&height=120&section=footer&animation=fadeIn" /> </div> ```
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+```
